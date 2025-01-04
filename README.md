@@ -1,16 +1,20 @@
-## Hi there 👋
+# Bruna Hreisemnou
+**`Após 5 anos de Engenharia Civil, descobri que minha verdadeira paixão é a tecnologia.`**
 
-<!--
-**hrsmnbru/hrsmnbru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Análise e Desenvolvimento de sistemas, apaixonada por cada aprendizado desse universo. Busco conexões e me inspiro em mulheres que fazem acontecer no front-end e no back-end.
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/bruna-hreisemnou-064a98242/">
+        <img  
+            title="LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+<img 
+      align="right" 
+      alt="GitHub Stats" 
+      height="100" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrsmnbru&theme=buefy&layout=compact&custom_title=Linguagens&langs_count=9" 
+  />
+
+</p>
